@@ -1,0 +1,5 @@
+- Created an API service using the Flask framework. This API allows users to query cafe information.
+- Allows users to send a query (Read) to retrieve all cafes in the database, or search for cafes by their location, or randomly provide a cafe to users.
+- Allows users to Read, Update (Patch), and Delete the cafe’s information from the database.
+- The query response is in JSON format, allowing for quick and light data exchange.
+- Created an automated testing environment for all API routes using GitHub Actions to ensure robustness and reliability.
